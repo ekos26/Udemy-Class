@@ -1,0 +1,19 @@
+h1 {
+	/*color:rgba(0,200,100,0.8);
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 1px solid purple;
+}
+
+
+h4{
+	background: rgb(255,100,80);
+}
+
+body {	
+	/*background: url(http://www.mftstamps.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/m/f/mft_bg2_woodgrain.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
